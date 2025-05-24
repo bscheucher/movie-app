@@ -2,6 +2,7 @@ import MovieCard from "../components/MovieCard"
 import idiot from "/hq720.jpg"
 import asshole from "/asshole.webp"
 import { useState } from "react";
+import '../css/Home.css'
 
 function Home(){
 
