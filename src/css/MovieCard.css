@@ -48,7 +48,6 @@
   opacity: 1;
 }
 
-
 .favorite-btn {
   position: absolute;
   top: 1rem;
@@ -122,19 +121,4 @@
     height: 32px;
     font-size: 1.2rem;
   }
-}
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-  border-radius: 10em;
-}
-
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
 }
